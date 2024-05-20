@@ -1,0 +1,13 @@
+"Alt","Bar","Fri","Hun","Pat","Price","Rain","Res","Type","Est","Decision"
+Yes,No,No,Yes,Some,3,No,Yes,French,010,Yes
+Yes,No,No,Yes,Full,1,No,No,Thai,3060,No
+No,Yes,No,No,Some,1,No,No,Burger,010,Yes
+Yes,No,Yes,Yes,Full,1,Yes,No,Thai,1030,Yes
+Yes,No,Yes,No,Full,3,No,Yes,French,600,No
+No,Yes,No,Yes,Some,2,Yes,Yes,Italian,010,Yes
+No,Yes,No,No,None,1,Yes,No,Burger,010,No
+No,No,No,Yes,Some,2,Yes,Yes,Thai,010,Yes
+No,Yes,Yes,No,Full,1,Yes,No,Burger,600,No
+Yes,Yes,Yes,Yes,Full,3,No,Yes,Italian,1030,No
+No,No,No,No,None,1,No,No,Thai,010,No
+Yes,Yes,Yes,Yes,Full,1,No,No,Burger,3060,Yes
